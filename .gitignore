@@ -1,0 +1,28 @@
+# Cmake files
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+#exe's and other files
+.vscode
+build
+*Test
+flightPathOptimizer
+dot_files/airports.dot
+testing.cpp
+dot_files/airports.dot
+dot_files/airports.dot
+*.dot
+.*
+img/
+planning*/
+
+!.gitignore
