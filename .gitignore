@@ -23,6 +23,7 @@ dot_files/airports.dot
 *.dot
 .*
 img/
+flight.txt
 planning*/
 
 !.gitignore
